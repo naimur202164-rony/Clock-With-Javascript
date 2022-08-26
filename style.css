@@ -71,12 +71,9 @@ body {
   color: var(--green-color) !important;
 }
 
-/* Adding Responsive */
+/* Adding Responsive  For Tablet Version */
 
 @media (max-width: 800px) {
-  body {
-    background: var(--green-color);
-  }
   .content-container .content .week-days {
     justify-content: center;
     display: flex;
@@ -88,6 +85,8 @@ body {
   }
   .content-container .week-days ul li a {
     text-align: center;
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
 }
+
+/*  */
