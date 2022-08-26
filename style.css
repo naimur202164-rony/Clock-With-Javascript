@@ -60,4 +60,13 @@ body {
 .btn-group {
   display: flex;
   align-items: center;
+  justify-content: space-around;
+}
+.btn-group .btn {
+  text-decoration: none;
+  color: var(--gray-color);
+  font-size: 1.5rem;
+}
+.btn-group .active {
+  color: var(--green-color) !important;
 }
