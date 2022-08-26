@@ -49,3 +49,15 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.clock h2 {
+  font-family: "Popins";
+  font-size: 5rem;
+  color: var(--green-color);
+}
+
+.btn-group {
+  display: flex;
+  align-items: center;
+}
