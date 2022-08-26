@@ -12,3 +12,16 @@
   --gray-color: #8a8a8a;
   --green-color: #00ff97;
 }
+
+body {
+  background-color: var(--dark-color);
+  height: 100vh;
+}
+
+.content-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+/* Clock Desgin */
