@@ -25,3 +25,7 @@ body {
   height: 100vh;
 }
 /* Clock Desgin */
+
+.content-container .content .week-days ul {
+  display: flex;
+}
