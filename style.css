@@ -1,0 +1,14 @@
+/* Rest-Css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Custom-color */
+
+:root {
+  --dark-color: #191919;
+  --gray-color: #8a8a8a;
+  --green-color: #00ff97;
+}
